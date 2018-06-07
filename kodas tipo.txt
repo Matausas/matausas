@@ -1,0 +1,141 @@
+<!DOCTYPE HTML>
+<html>
+<meta charset="UTF-8">
+<!-- I am an HTML comment. I start with a left arrow and end with a right arrow. -->
+<!-- Look for left and right arrows and delete them to uncover a new chunk of the webpage. -->
+<p>Hooray! You copied the template successfully</p>
+
+<body>
+<div class="container">
+    <!-- Delete the left arrow bellow -->
+    
+    <div class="clearfix">
+        <img style="float:right; padding-left: 15px" src=https://yt3.ggpht.com/a-/ACSszfGvz74JrR8LHt3O5mwGZEZfDZgpAWp2Pg7v2w=s900-mo-c-c0xffffffff-rj-k-no
+        <h1>Marius Vinickis</h1>
+        <p>
+            Hello! My name is Matas and I am currently finishing my 11th grade in the Vilnius Jesuit High School. I have a huge interest in travelling as well as extreme sports, espeially jet skiing. 
+        </p>
+    </div> 
+    
+    
+    <!-- Delete the right arrow above as well! -->
+
+
+
+    
+    
+    <h1>Education</h1>
+    <div class="clearfix">
+        <img style="float:right" src="https://i2-prod.glasgowlive.co.uk/incoming/article11934200.ece/ALTERNATES/s615/JS35281815.jpg"></img>
+        <h2>Vilnius Jesuit High School</h2>
+        <span>2016 - 2018 (ongoing)</span>
+        <p>Subjects that I chose to study next year:</p>
+        <ul>
+            <li>Business and economics</li>
+            <li>Mathematics</li>
+            <li>Chemistry</li>
+            <li>Lithuanian language</li>
+            <li>History</li>
+            <li>Russian language</li>
+        </ul>
+    </div>
+   
+
+
+    
+    
+    <h1>Hobbies and interests</h1>
+    <div class="hobby-box">
+        <img src=https://cdn2.unrealengine.com/Fortnite%2Fbattle-royale%2Ffortnite-battleroyaleapproved-1920x1080-70139076a5efcf08da47c9bbbb824ebc5a10310e.jpg
+        <br>
+        <b>Fortnite</b>
+    </div>
+    <div class="hobby-box">
+        <img src=https://i.ytimg.com/vi/c3S7i9E8hoA/maxresdefault.jpg
+        <br>
+        <b>Jet surfing</b>
+    </div>
+    <div class="hobby-box">
+        <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jetboot_Jetski_DM_2007_Krautsand_2.jpg/1280px-Jetboot_Jetski_DM_2007_Krautsand_2.jpg
+        <br>
+        <b>Jet skiing</b>
+    </div>
+    <br>
+    <br>
+   
+
+
+    
+    <h2>My top favourite TED talks:</h2>
+    <ol>
+        <li><a href="https://www.ted.com/talks/larry_smith_why_you_will_fail_to_have_a_great_career">Larry Smith: Why you will fail to have a great career</a></li>
+        <li><a href="https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen">Hans Rosling: The best stats you've ever seen</a></li>
+        <li><a href="https://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight">Jill Bolte Taylor: My stroke of insight</a></li>
+    </ol>
+    <br>
+   
+
+   
+    <div>
+        <h2>I have visited over 35 countries</h2>
+       
+    
+
+
+     
+    <div id="links">
+        <h2 class="title">Links to some of my favourite websites</h2>
+        <a href="http://michal.kosmulski.org/origami/balls.html">Modular origami</a>
+        <br>
+        <a href="https://na.leagueoflegends.com/en/game-info/champions/">League of Legends champions</a>
+    </div>
+    -->
+</div>
+</body>
+</html>
+
+
+
+
+<style>
+    /* Make the font nicer to read */
+    body {
+        font-size: 0.8em;
+        line-height: 1.4;
+        font-family: sans-serif;
+        color: #222;
+    }
+
+    /* Center the content of the webpage */
+    .container {
+        width: 100%;
+        max-width: 600px;
+        margin: 0 auto;
+        padding-bottom: 150px;
+    }
+
+    .hobby-box {
+        display: inline-block;
+    }
+
+    img {
+        padding-top: 15px;
+        max-width: 150px;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+
+    td {    
+        border: 1px solid #ddd;
+        padding: 2px;
+        vertical-align: top;
+    }
+
+    .clearfix {
+        overflow: auto;
+    }
+</style>
